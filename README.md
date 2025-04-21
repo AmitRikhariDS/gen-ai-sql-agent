@@ -1,3 +1,4 @@
+---
 license: apache-2.0
 sdk: streamlit
 emoji: ⚡
@@ -5,7 +6,7 @@ colorFrom: indigo
 colorTo: red
 pinned: true
 short_description: An intelligent SQL assistant powered by **LLaMA 3.1 (8B)
-
+---
 # 🚀 Gen AI SQL Agent
 
 An intelligent SQL assistant powered by **LLaMA 3.1 (8B Instant)** running on **GroqAI's lightning-fast inference infrastructure**. This application allows natural language querying over a sample database using **Streamlit** for deployment.
